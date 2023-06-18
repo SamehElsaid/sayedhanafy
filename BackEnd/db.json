@@ -1,0 +1,366 @@
+{
+  "header": [
+    {
+      "en": "Desserts and drinks",
+      "ar": "الحلويات والمشروبات",
+      "id": 1
+    },
+    {
+      "en": "additions",
+      "ar": "اضافات",
+      "id": 2
+    },
+    {
+      "en": "Koushari",
+      "ar": "كشري",
+      "id": 3
+    },
+    {
+      "en": "casserole",
+      "ar": "طواجن",
+      "id": 4
+    },
+    {
+      "en": "coffe",
+      "ar": "قهوه",
+      "id": 5
+    },
+    {
+      "en": "milf",
+      "ar": "لبن",
+      "id": 6
+    }
+  ],
+  "products": [
+    {
+      "name": "أرز بلبن لوتس.",
+      "type": {
+        "en": "Desserts and drinks",
+        "ar": "الحلويات والمشروبات"
+      },
+      "id": 1,
+      "description": "أرز بالبن سيد حنفى المميز مع طبقة غنية من كريمة اللوتس وبسكويت اللوتس .",
+      "img": "https://static.zyda.com/cdn-cgi/image/width=640,f=auto,metadata=none/photos/menu_items/photo_urls/f44329d8-45aa-4fc3-8469-7f54906b207d/original/02.png?1678274628",
+      "price": 25
+    },
+    {
+      "name": "أرز بلبن بالمكسرات.",
+      "type": {
+        "en": "Desserts and drinks",
+        "ar": "الحلويات والمشروبات"
+      },
+      "id": 2,
+      "img": "https://static.zyda.com/cdn-cgi/image/width=640,f=auto,metadata=none/photos/menu_items/photo_urls/cb60d733-7761-45f9-914f-5e9d2cb30711/original/01.png?1678274664",
+      "price": 25
+    },
+    {
+      "name": "أرز باللبن .",
+      "type": {
+        "en": "Desserts and drinks",
+        "ar": "الحلويات والمشروبات"
+      },
+      "id": 3,
+      "img": "https://static.zyda.com/cdn-cgi/image/width=384,f=auto,metadata=none/images/542256/image_urls/default/4fe3a186bb9831e4c24ff2911d7633337097be5e.jpeg?1677582520",
+      "price": 25
+    },
+    {
+      "name": "عيش توست",
+      "type": {
+        "en": "additions",
+        "ar": "اضافات"
+      },
+      "id": 4,
+      "img": "https://static.zyda.com/cdn-cgi/image/width=640,f=auto,metadata=none/images/542273/image_urls/default/6a6f627a9c9ccec9442c3d56a951c245c04f35d3.jpeg?1677583963",
+      "price": 8
+    },
+    {
+      "name": "بصل مقلي .",
+      "type": {
+        "en": "additions",
+        "ar": "اضافات"
+      },
+      "id": 5,
+      "img": "https://static.zyda.com/cdn-cgi/image/width=384,f=auto,metadata=none/images/542277/image_urls/default/3fda0ca335bb508ffe1bb4622434568cfc1aadfc.jpeg?1677584107",
+      "price": 25
+    },
+    {
+      "name": "حمص .",
+      "type": {
+        "en": "additions",
+        "ar": "اضافات"
+      },
+      "id": 6,
+      "img": "https://static.zyda.com/cdn-cgi/image/width=384,f=auto,metadata=none/images/542256/image_urls/default/4fe3a186bb9831e4c24ff2911d7633337097be5e.jpeg?1677582520",
+      "price": 10
+    },
+    {
+      "name": "كشري.",
+      "type": {
+        "en": "Koushari",
+        "ar": "كشري"
+      },
+      "id": 7,
+      "img": "https://static.zyda.com/cdn-cgi/image/width=384,f=auto,metadata=none/images/542235/image_urls/default/0a87cdc5286ddb0f7b409aa011f00667945cedc2.png?1677580292",
+      "price": 15
+    },
+    {
+      "name": "كشري ستار.",
+      "type": {
+        "en": "Koushari",
+        "ar": "كشري"
+      },
+      "id": 8,
+      "img": "https://static.zyda.com/cdn-cgi/image/width=384,f=auto,metadata=none/images/542236/image_urls/default/0a10b28af34bb1834c2c8bb007ae53192b85b715.png?1677580533",
+      "price": 25
+    },
+    {
+      "name": "كشري بج استار.",
+      "type": {
+        "en": "Koushari",
+        "ar": "كشري"
+      },
+      "id": 9,
+      "img": "https://static.zyda.com/cdn-cgi/image/width=384,f=auto,metadata=none/images/542239/image_urls/default/d8e10e197fd8734d4c62f9776c52265e5a2e41e9.png?1677581063",
+      "price": 40
+    },
+    {
+      "name": "طاجن لحمه",
+      "type": {
+        "en": "casserole",
+        "ar": "طواجن"
+      },
+      "id": 10,
+      "img": "https://static.zyda.com/cdn-cgi/image/width=384,f=auto,metadata=none/images/542243/image_urls/default/9312c630a5a337103f017c8d768332f7c7b43f6a.jpeg?1677581849",
+      "price": 47
+    },
+    {
+      "name": "طاجن فراخ.",
+      "type": {
+        "en": "casserole",
+        "ar": "طواجن"
+      },
+      "id": 11,
+      "img": "https://static.zyda.com/cdn-cgi/image/width=640,f=auto,metadata=none/images/542244/image_urls/original/d38a53bb97f9182115883329799873cde13620da.jpeg?1677581900",
+      "price": 52
+    },
+    {
+      "name": "طاجن خضار",
+      "type": {
+        "en": "casserole",
+        "ar": "طواجن"
+      },
+      "id": 12,
+      "img": "https://static.zyda.com/cdn-cgi/image/width=384,f=auto,metadata=none/images/542245/image_urls/default/f40495a592bd5a89bfb94d6518801695190d51d3.jpeg?1677582314",
+      "price": 40
+    },
+    {
+      "name": "coffe",
+      "type": {
+        "en": "coffe",
+        "ar": "قهوه"
+      },
+      "img": "https://static.zyda.com/cdn-cgi/image/width=384,f=auto,metadata=none/images/542259/image_urls/default/7b0bce2f96bca46f55a631f50cc88da83cad6e4e.jpeg?1677583068",
+      "price": "13",
+      "id": 13
+    },
+    {
+      "name": "لبن",
+      "type": {
+        "en": "milf",
+        "ar": "لبن"
+      },
+      "img": "https://static.zyda.com/cdn-cgi/image/width=384,f=auto,metadata=none/images/542259/image_urls/default/7b0bce2f96bca46f55a631f50cc88da83cad6e4e.jpeg?1677583068",
+      "price": "13",
+      "id": 14
+    }
+  ],
+  "cart": [
+    {
+      "id": 1,
+      "products": [],
+      "number": 0
+    },
+    {
+      "id": 2,
+      "products": [],
+      "number": 0,
+      "comment": ""
+    },
+    {
+      "id": 3,
+      "products": [],
+      "number": 0
+    },
+    {
+      "id": 4,
+      "products": [
+        {
+          "name": "أرز بلبن لوتس.",
+          "type": {
+            "en": "Desserts and drinks",
+            "ar": "الحلويات والمشروبات"
+          },
+          "id": 1,
+          "description": "أرز بالبن سيد حنفى المميز مع طبقة غنية من كريمة اللوتس وبسكويت اللوتس .",
+          "img": "https://static.zyda.com/cdn-cgi/image/width=640,f=auto,metadata=none/photos/menu_items/photo_urls/f44329d8-45aa-4fc3-8469-7f54906b207d/original/02.png?1678274628",
+          "price": 25,
+          "num": 1,
+          "comment": ""
+        }
+      ],
+      "number": 1,
+      "comment": ""
+    }
+  ],
+  "dashboard": [
+    {
+      "id": "admin",
+      "password": "admin"
+    }
+  ],
+  "drivery": [],
+  "order": [
+    {
+      "product": [
+        {
+          "name": "أرز بلبن لوتس.",
+          "type": {
+            "en": "Desserts and drinks",
+            "ar": "الحلويات والمشروبات"
+          },
+          "id": 1,
+          "description": "أرز بالبن سيد حنفى المميز مع طبقة غنية من كريمة اللوتس وبسكويت اللوتس .",
+          "img": "https://static.zyda.com/cdn-cgi/image/width=640,f=auto,metadata=none/photos/menu_items/photo_urls/f44329d8-45aa-4fc3-8469-7f54906b207d/original/02.png?1678274628",
+          "price": 25,
+          "num": 1,
+          "comment": ""
+        },
+        {
+          "name": "أرز بلبن بالمكسرات.",
+          "type": {
+            "en": "Desserts and drinks",
+            "ar": "الحلويات والمشروبات"
+          },
+          "id": 2,
+          "img": "https://static.zyda.com/cdn-cgi/image/width=640,f=auto,metadata=none/photos/menu_items/photo_urls/cb60d733-7761-45f9-914f-5e9d2cb30711/original/01.png?1678274664",
+          "price": 25,
+          "num": 1,
+          "comment": ""
+        },
+        {
+          "name": "أرز باللبن .",
+          "type": {
+            "en": "Desserts and drinks",
+            "ar": "الحلويات والمشروبات"
+          },
+          "id": 3,
+          "img": "https://static.zyda.com/cdn-cgi/image/width=384,f=auto,metadata=none/images/542256/image_urls/default/4fe3a186bb9831e4c24ff2911d7633337097be5e.jpeg?1677582520",
+          "price": 25,
+          "num": 1,
+          "comment": ""
+        },
+        {
+          "name": "عيش توست",
+          "type": {
+            "en": "additions",
+            "ar": "اضافات"
+          },
+          "id": 4,
+          "img": "https://static.zyda.com/cdn-cgi/image/width=640,f=auto,metadata=none/images/542273/image_urls/default/6a6f627a9c9ccec9442c3d56a951c245c04f35d3.jpeg?1677583963",
+          "price": 8,
+          "num": 1,
+          "comment": ""
+        }
+      ],
+      "comment": "",
+      "number": "01558290662",
+      "date": "17/06/2023",
+      "productNumber": 4,
+      "time": "2:28:17 am",
+      "location": "4 Gamal Abd Al Naser Street, Tanta, 31525, Egypt",
+      "id": 1
+    },
+    {
+      "product": [
+        {
+          "name": "أرز باللبن .",
+          "type": {
+            "en": "Desserts and drinks",
+            "ar": "الحلويات والمشروبات"
+          },
+          "id": 3,
+          "img": "https://static.zyda.com/cdn-cgi/image/width=384,f=auto,metadata=none/images/542256/image_urls/default/4fe3a186bb9831e4c24ff2911d7633337097be5e.jpeg?1677582520",
+          "price": 25,
+          "num": 10,
+          "comment": ""
+        }
+      ],
+      "comment": "",
+      "number": "01566989655",
+      "date": "17/06/2023",
+      "productNumber": 10,
+      "time": "2:28:37 am",
+      "location": "4 Gamal Abd Al Naser Street, Tanta, 31525, Egypt",
+      "id": 2
+    },
+    {
+      "product": [
+        {
+          "name": "لبن",
+          "type": {
+            "en": "milf",
+            "ar": "لبن"
+          },
+          "img": "https://static.zyda.com/cdn-cgi/image/width=384,f=auto,metadata=none/images/542259/image_urls/default/7b0bce2f96bca46f55a631f50cc88da83cad6e4e.jpeg?1677583068",
+          "price": "13",
+          "id": 14,
+          "num": 4,
+          "comment": ""
+        }
+      ],
+      "comment": "",
+      "number": "01558290662",
+      "date": "17/06/2023",
+      "productNumber": 4,
+      "time": "5:38:23 pm",
+      "location": "4 Gamal Abd Al Naser Street, Tanta, 31525, Egypt",
+      "id": 3
+    },
+    {
+      "product": [
+        {
+          "name": "أرز بلبن لوتس.",
+          "type": {
+            "en": "Desserts and drinks",
+            "ar": "الحلويات والمشروبات"
+          },
+          "id": 1,
+          "description": "أرز بالبن سيد حنفى المميز مع طبقة غنية من كريمة اللوتس وبسكويت اللوتس .",
+          "img": "https://static.zyda.com/cdn-cgi/image/width=640,f=auto,metadata=none/photos/menu_items/photo_urls/f44329d8-45aa-4fc3-8469-7f54906b207d/original/02.png?1678274628",
+          "price": 25,
+          "num": 3,
+          "comment": ""
+        },
+        {
+          "name": "أرز بلبن بالمكسرات.",
+          "type": {
+            "en": "Desserts and drinks",
+            "ar": "الحلويات والمشروبات"
+          },
+          "id": 2,
+          "img": "https://static.zyda.com/cdn-cgi/image/width=640,f=auto,metadata=none/photos/menu_items/photo_urls/cb60d733-7761-45f9-914f-5e9d2cb30711/original/01.png?1678274664",
+          "price": 25,
+          "num": 3,
+          "comment": ""
+        }
+      ],
+      "comment": "",
+      "number": "01558290062",
+      "date": "17/06/2023",
+      "productNumber": 6,
+      "time": "6:17:15 pm",
+      "location": "4 Gamal Abd Al Naser Street, Tanta, 31525, Egypt",
+      "id": 4
+    }
+  ]
+}
